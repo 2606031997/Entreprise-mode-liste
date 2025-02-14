@@ -1,0 +1,11 @@
+<site-list version="1">
+  <created-by>
+    <tool>EMIESiteListManager</tool>
+    <version>12.0.0.0</version>
+    <date-created>02/14/2025 15:15:56</date-created>
+  </created-by>
+  <site url="zvmfrsaappr01:83/bp/server/portal.l1000">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+</site-list>
